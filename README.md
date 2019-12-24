@@ -1,6 +1,6 @@
 # XConstructorWrong.java
 
-Simple example showing what happens in calling virtual methods in constructors.
+Simple example showing what happens in calling virtual methods in `Java` constructors.
 
 First published on December 19, 2007 [java_subdolo_errore_1](http://www.isidoroghezzi.net/java_subdolo_errore_1.html)
 
@@ -12,4 +12,3 @@ First published on December 19, 2007 [java_subdolo_errore_1](http://www.isidorog
 
 ## "Unexpected" output
 `null`
-
