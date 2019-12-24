@@ -6,6 +6,20 @@
     java version "1.5.0_13"
     Java(TM) 2 Runtime Environment, Standard Edition (build 1.5.0_13-b05-237)
     Java HotSpot(TM) Client VM (build 1.5.0_13-119, mixed mode, sharing)
+
+    ---
+
+    Copyright 2008 - 2019 isidoro ghezzi
+    https://github.com/isghe/XConstructorWrong
+    Compiled with: javac 1.8.0_66
+    Tested with:
+	java version "1.8.0_66"
+	Java(TM) SE Runtime Environment (build 1.8.0_66-b17)
+	Java HotSpot(TM) 64-Bit Server VM (build 25.66-b17, mixed mode)
+
+	---
+
+	MIT License
 */
 
 abstract class XBase{
